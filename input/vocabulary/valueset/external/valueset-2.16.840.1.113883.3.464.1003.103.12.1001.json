@@ -1860,6 +1860,11 @@
       "version": "2023-09",
       "code": "9859006",
       "display": "Acanthosis nigricans due to type 2 diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "2025-09",
+      "code": "164971000119101",
+      "display": "Type 2 diabetes mellitus controlled by diet (disorder)"
     } ]
   }
 }
